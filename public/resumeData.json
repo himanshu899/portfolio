@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Himanshu Singh",
+    "occupation": "Frontend Developer(  ReactJS )",
+    "description": "",
+    "image": "himanshu.jpeg",
+    "bio": "My name is Himanshu Singh, I'm a ReactJS Developer. Currently I am pursuing BE from Sant Longowal Institute Of Engineering and Technology Sangrur ,Punjab",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "vinitars123@gmail.com",
+    "phone": "8840763677",
+    "address": {
+      "street": "818 Naina Garh Nagra",
+      "city": "Jhansi",
+      "state": "India",
+      "zip": "284003"
+    },
+    
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100008552328880",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/himanshu-singh-39a71a1a7/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com//",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/himanshu899",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Sant Longowal Institute Of Engineering and Technology , Sangrur ,Punjab",
+        "degree": "Bachelor Of Engineering in Computer Science",
+        "graduated": "2018-2022",
+        "description": ""
+      }
+    ],
+"work": [
+  {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": "."
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ]
+    ,
+    
+    
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      },
+      {
+        "name":"Javascript",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone",
+        "category": "Amazon Clone built with ReactJS,CSS,FireBase",
+        "image": "amazon.png",
+        "url": "https://clone-29084.web.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix.png",
+        "url": "https://netflix-clone-7a3bc.web.app/"
+      },
+      {
+        "title": "Birthday Gift with React",
+        "category": "Birthday Gift built with ReactJS and Sanity",
+        "image": "birthday.png",
+        "url": "https://pragyaktaallyours.netlify.app/project"
+      },{
+        "title": "Portfolio with React",
+        "category": "Portfolio built with ReactJS",
+        "image": "port.png",
+        "url": ""
+      }
+    ]
+  }
+}
